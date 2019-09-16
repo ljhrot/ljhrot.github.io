@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Finding The Way Home</title>
+    <link>http://ljhrot.github.io/tags/test/</link>
+    <description>Recent content in Test on Finding The Way Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Sep 2014 10:18:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ljhrot.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Full and Comprehensive Style Test</title>
+      <link>http://ljhrot.github.io/a-full-and-comprehensive-style-test/</link>
+      <pubDate>Sat, 27 Sep 2014 10:18:00 +0000</pubDate>
+      
+      <guid>http://ljhrot.github.io/a-full-and-comprehensive-style-test/</guid>
+      <description>This is just an ipsis verbis copy of the first example running on the Ghost Demo. This shows how you can use html styling to achieve your hopes.
+Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Lorem ipsum dolor sit amet, test link adipiscing elit.</description>
+    </item>
+    
+  </channel>
+</rss>
