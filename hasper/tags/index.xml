@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Finding The Way Home</title>
-    <link>http://ljhrot.github.io/hasper/tags/</link>
+    <link>https://ljhrot.github.io/hasper/tags/</link>
     <description>Recent content in Tags on Finding The Way Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Sep 2014 10:18:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ljhrot.github.io/hasper/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ljhrot.github.io/hasper/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>content</title>
-      <link>http://ljhrot.github.io/hasper/tags/content/</link>
+      <link>https://ljhrot.github.io/hasper/tags/content/</link>
       <pubDate>Sat, 27 Sep 2014 10:18:00 +0000</pubDate>
       
-      <guid>http://ljhrot.github.io/hasper/tags/content/</guid>
+      <guid>https://ljhrot.github.io/hasper/tags/content/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>http://ljhrot.github.io/hasper/tags/test/</link>
+      <link>https://ljhrot.github.io/hasper/tags/test/</link>
       <pubDate>Sat, 27 Sep 2014 10:18:00 +0000</pubDate>
       
-      <guid>http://ljhrot.github.io/hasper/tags/test/</guid>
+      <guid>https://ljhrot.github.io/hasper/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fables</title>
-      <link>http://ljhrot.github.io/hasper/tags/fables/</link>
+      <link>https://ljhrot.github.io/hasper/tags/fables/</link>
       <pubDate>Tue, 12 Aug 2014 10:18:00 +0000</pubDate>
       
-      <guid>http://ljhrot.github.io/hasper/tags/fables/</guid>
+      <guid>https://ljhrot.github.io/hasper/tags/fables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fiction</title>
-      <link>http://ljhrot.github.io/hasper/tags/fiction/</link>
+      <link>https://ljhrot.github.io/hasper/tags/fiction/</link>
       <pubDate>Tue, 12 Aug 2014 10:18:00 +0000</pubDate>
       
-      <guid>http://ljhrot.github.io/hasper/tags/fiction/</guid>
+      <guid>https://ljhrot.github.io/hasper/tags/fiction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>speeches</title>
-      <link>http://ljhrot.github.io/hasper/tags/speeches/</link>
+      <link>https://ljhrot.github.io/hasper/tags/speeches/</link>
       <pubDate>Wed, 28 Aug 1963 10:18:00 +0000</pubDate>
       
-      <guid>http://ljhrot.github.io/hasper/tags/speeches/</guid>
+      <guid>https://ljhrot.github.io/hasper/tags/speeches/</guid>
       <description></description>
     </item>
     

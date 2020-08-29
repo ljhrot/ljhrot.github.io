@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>abraham on Finding The Way Home</title>
-    <link>http://ljhrot.github.io/hasper/author/abraham/</link>
+    <link>https://ljhrot.github.io/hasper/author/abraham/</link>
     <description>Recent content in abraham on Finding The Way Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Nov 1863 10:18:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ljhrot.github.io/hasper/author/abraham/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ljhrot.github.io/hasper/author/abraham/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gettysburg Address</title>
-      <link>http://ljhrot.github.io/hasper/gettysburg-address/</link>
+      <link>https://ljhrot.github.io/hasper/gettysburg-address/</link>
       <pubDate>Thu, 19 Nov 1863 10:18:00 +0000</pubDate>
       
-      <guid>http://ljhrot.github.io/hasper/gettysburg-address/</guid>
+      <guid>https://ljhrot.github.io/hasper/gettysburg-address/</guid>
       <description>Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
 Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.</description>
     </item>
